@@ -1,0 +1,9 @@
+streamlit
+pandas
+folium
+streamlit-folium
+plotly
+streamlit-option-menu
+openpyxl
+xlsxwriter
+matplotlib
